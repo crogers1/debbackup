@@ -1,0 +1,10 @@
+Package: xenmou
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Installed-Size: 26
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

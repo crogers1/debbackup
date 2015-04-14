@@ -1,0 +1,10 @@
+Package: libv4v-config
+Source: libv4v
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Installed-Size: 32
+Section: unknown
+Priority: extra
+Description: libv4v-config
+ <insert long description, indented with spaces>

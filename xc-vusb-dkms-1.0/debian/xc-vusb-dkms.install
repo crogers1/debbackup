@@ -1,0 +1,4 @@
+*.c			/usr/src/xc-vusb-1.0
+Kbuild		/usr/src/xc-vusb-1.0
+Makefile	/usr/src/xc-vusb-1.0
+dkms.conf	/usr/src/xc-vusb-1.0

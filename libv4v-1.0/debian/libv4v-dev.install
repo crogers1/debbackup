@@ -1,0 +1,6 @@
+usr/lib/libv4v_nointerposer.a
+usr/lib/libv4v_nointerposer.la
+usr/lib/libv4v.a
+usr/lib/libv4v.la
+usr/include/libv4v.h
+usr/lib/pkgconfig/libv4v.pc

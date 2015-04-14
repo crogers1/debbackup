@@ -1,0 +1,9 @@
+7e61990a16ccf10d506664035431db0d  usr/include/libv4v.h
+f42ada943c2feef7a60783acd251885a  usr/lib/libv4v.a
+792b2793f91e3dba5a3766d0aa014c28  usr/lib/libv4v.la
+be9dce2cb7cafc1bbe81849be99cf974  usr/lib/libv4v_nointerposer.a
+b2b1aa837ab575c66b07f908a9d10fff  usr/lib/libv4v_nointerposer.la
+f36c5be8cb99650f1b07d8f47f510add  usr/lib/pkgconfig/libv4v.pc
+b4fe743559b6037f5e83faf28be94d45  usr/share/doc/libv4v-dev/changelog.Debian.gz
+e1268067c82e31089c8ca7d310358f70  usr/share/doc/libv4v-dev/changelog.gz
+514c8124d7cce1b269caa26a9725b865  usr/share/doc/libv4v-dev/copyright

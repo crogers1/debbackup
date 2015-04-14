@@ -1,0 +1,4 @@
+*.c			/usr/src/v4v-@VERSION@
+*.h			/usr/src/v4v-@VERSION@
+Makefile	/usr/src/v4v-@VERSION@
+dkms.conf	/usr/src/v4v-@VERSION@

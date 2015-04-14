@@ -1,0 +1,13 @@
+Source: xc-vusb-dkms
+Section: kernel
+Priority: extra
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Build-Depends: debhelper (>= 8.0.0), bzip2
+Standards-Version: 3.9.3
+#Vcs-Git: git://git.debian.org/collab-maint/xc-vusb-dkms.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/xc-vusb-dkms.git;a=summary
+
+Package: xc-vusb-dkms
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: xc-vusb component dkms package

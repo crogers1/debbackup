@@ -1,0 +1,10 @@
+Package: libv4v
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Installed-Size: 62
+Depends: libc6 (>= 2.2.5), v4v-proxy, viptables, libv4v-config, ttcp-v4v
+Section: unknown
+Priority: extra
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

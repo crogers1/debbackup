@@ -1,0 +1,17 @@
+Source: v4v-dkms
+Section: kernel
+Priority: extra
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Build-Depends: debhelper (>= 8.0.0), bzip2
+Standards-Version: 3.9.3
+#Vcs-Git: git://git.debian.org/collab-maint/v4v-dkms.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/v4v-dkms.git;a=summary
+
+Package: v4v-dkms
+Architecture: i386 amd64
+Depends: v4v-dev
+Description: v4v component dkms package
+
+Package: v4v-dev
+Architecture: i386 amd64
+Description: v4v deveopement files

@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+VERSION := $(shell dpkg-parsechangelog | grep Version: | cut -d" " -f2 | cut -d"-" -f1)
+
+%:
+	dh "$@" --with dkms
+
+override_dh_auto_clean:
+	rm -f debian/v4v-dkms.install
+
+override_dh_auto_build:
+	sed 's/@VERSION@/'$(VERSION)/ debian/v4v-dkms.install.in >debian/v4v-dkms.install

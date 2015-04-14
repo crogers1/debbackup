@@ -1,0 +1,45 @@
+Source: libv4v
+Section: unknown
+Priority: extra
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev
+Standards-Version: 3.9.3
+#Vcs-Git: git://git.debian.org/collab-maint/libv4v.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/libv4v.git;a=summary
+
+Package: libv4v
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, v4v-proxy, viptables, libv4v-config, ttcp-v4v
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+
+Package: libv4v-dev
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Libv4v development files
+ <insert long description, indented with spaces>
+
+
+Package: v4v-proxy
+Architecture: i386 amd64
+Description: v4v-proxy 
+ <insert long description, indented with spaces>
+
+
+Package: viptables
+Architecture: i386 amd64
+Description: viptables 
+ <insert long description, indented with spaces>
+
+
+Package: libv4v-config
+Architecture: i386 amd64
+Description: libv4v-config 
+ <insert long description, indented with spaces>
+
+
+Package: ttcp-v4v
+Architecture: i386 amd64
+Description: ttcp-v4v
+ <insert long description, indented with spaces>

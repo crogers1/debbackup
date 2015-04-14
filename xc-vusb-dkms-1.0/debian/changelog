@@ -1,0 +1,5 @@
+xc-vusb-dkms (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Chris Rogers <rogersc@ainfosec.com>  Tue, 14 Apr 2015 10:36:41 -0400

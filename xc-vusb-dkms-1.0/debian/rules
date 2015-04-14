@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+
+VERSION := $(shell dpkg-parsechangelog | grep Version: | cut -d" " -f2 | cut -d"-" -f1)
+
+%:
+	dh "$@" --with dkms
+
+override_dh_auto_clean:
+	rm -f debian/xc-vusb-dkms.install
+	make clean
+
+override_dh_auto_build:
+	sed 's/@VERSION@/'$(VERSION)/ debian/xc-vusb-dkms.install.in >debian/xc-vusb-dkms.install

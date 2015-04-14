@@ -1,0 +1,6 @@
+64bb9f78aecb70d35f98028d92951119  usr/share/doc/xenmou-dkms/changelog.Debian.gz
+d8624c9fc49be3228f0bec32e5fdf375  usr/share/doc/xenmou-dkms/copyright
+66384bc716777a04182bf8e06367207d  usr/src/xenmou-1.0/Makefile
+bc7fd3b8d365dd9bd4aae3cde63426da  usr/src/xenmou-1.0/debug.h
+b476d95219451f0e7a10eceab40aff1b  usr/src/xenmou-1.0/dkms.conf
+dc69afa5531cb792f6ec5d248e519073  usr/src/xenmou-1.0/xenmou.c

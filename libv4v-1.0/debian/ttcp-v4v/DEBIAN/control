@@ -1,0 +1,10 @@
+Package: ttcp-v4v
+Source: libv4v
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Installed-Size: 50
+Section: unknown
+Priority: extra
+Description: ttcp-v4v
+ <insert long description, indented with spaces>

@@ -1,0 +1,4 @@
+*.c			/usr/src/xenmou-@VERSION@
+*.h			/usr/src/xenmou-@VERSION@
+Makefile	/usr/src/xenmou-@VERSION@
+dkms.conf	/usr/src/xenmou-@VERSION@

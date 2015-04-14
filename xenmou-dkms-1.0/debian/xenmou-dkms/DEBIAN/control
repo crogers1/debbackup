@@ -1,0 +1,12 @@
+Package: xenmou-dkms
+Source: xenmou
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Chris Rogers <rogersc@ainfosec.com>
+Installed-Size: 62
+Depends: dkms (>= 2.1.0.0)
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: xenmou component dkms package
+ <insert long description, indented with spaces>
