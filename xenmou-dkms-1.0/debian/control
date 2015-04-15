@@ -1,10 +1,9 @@
 Source: xenmou
-Section: unknown
+Section: kernel
 Priority: extra
 Maintainer: Chris Rogers <rogersc@ainfosec.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
-Homepage: <insert the upstream URL, if relevant>
 #Vcs-Git: git://git.debian.org/collab-maint/xenmou.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/xenmou.git;a=summary
 

@@ -8,6 +8,6 @@ Standards-Version: 3.9.3
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/xc-vusb-dkms.git;a=summary
 
 Package: xc-vusb-dkms
-Architecture: i386 amd64
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: xc-vusb component dkms package

@@ -8,10 +8,10 @@ Standards-Version: 3.9.3
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/v4v-dkms.git;a=summary
 
 Package: v4v-dkms
-Architecture: i386 amd64
+Architecture: any
 Depends: v4v-dev
 Description: v4v component dkms package
 
 Package: v4v-dev
-Architecture: i386 amd64
+Architecture: any
 Description: v4v deveopement files
